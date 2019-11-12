@@ -1,3 +1,3 @@
 # LearningOutLoud
-The WORKBOOK for LearningOutLoud Facilitators
+The WORKBOOK for LearningOutLoud Sets
  - Landing Page for Download
